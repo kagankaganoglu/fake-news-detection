@@ -1,6 +1,6 @@
 # Fake News Detection on LIAR (CS445 · Group 32)
 
-##A 6-class truthfulness classifier on the LIAR dataset using two approaches:
+# #A 6-class truthfulness classifier on the LIAR dataset using two approaches:
 (1) a BiLSTM with pre-trained GloVe embeddings, and (2) a hybrid CNN that ingests BERT text embeddings plus speaker/metadata with an attention-based fusion. 
 
 ## Dataset
